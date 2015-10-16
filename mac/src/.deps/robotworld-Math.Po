@@ -1,0 +1,6 @@
+robotworld-Math.o: ../../src/Math.cpp ../../src/Math.hpp \
+  ../../src/Config.hpp
+
+../../src/Math.hpp:
+
+../../src/Config.hpp:
